@@ -1,0 +1,12 @@
+..\obj\scsi_data.o: ..\USB\CONFIG\scsi_data.c
+..\obj\scsi_data.o: ..\USB\CONFIG\usb_scsi.h
+..\obj\scsi_data.o: ..\USB\CONFIG\hw_config.h
+..\obj\scsi_data.o: ..\USB\CONFIG\platform_config.h
+..\obj\scsi_data.o: ..\SYSTEM\sys\sys.h
+..\obj\scsi_data.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\scsi_data.o: ..\SYSTEM\sys\core_cm3.h
+..\obj\scsi_data.o: D:\AshToolbox\keil\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\scsi_data.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\scsi_data.o: ..\USB\STM32_USB-FS-Device_Driver\inc\usb_type.h
+..\obj\scsi_data.o: ..\USB\CONFIG\usb_conf.h
+..\obj\scsi_data.o: ..\USB\CONFIG\memory.h
